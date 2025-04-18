@@ -3,7 +3,6 @@ import nltk
 import spacy
 nltk.download('stopwords')
 spacy.load('en_core_web_sm')
-
 import pandas as pd
 import base64, random
 import time, datetime
@@ -103,8 +102,7 @@ def run():
     st.sidebar.markdown("# Choose User")
     activities = ["Normal User", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    # link = '[©Developed by Spidy20](http://github.com/spidy20)'
-    # st.sidebar.markdown(link, unsafe_allow_html=True)
+    
     img = Image.open('./Logo/logo.png')
     img = img.resize((250, 250))
     st.image(img)
