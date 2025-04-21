@@ -35,15 +35,15 @@ Here are some screenshots of the AI Resume Analyzer in action:
 
 | Homepage | Resume Upload | Basic Info & Skills |
 |-------------------------|-----------------|----------------------|
-| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) | ![Screenshot 3](screenshots/screenshot3.png) |
+| ![Screenshot 1](Screenshots/screenshot1.png) | ![Screenshot 2](Screenshots/screenshot2.png) | ![Screenshot 3](Screenshots/screenshot3.png) |
 
 | Recommended Skills | Tips and Ideas & Resume Score | Admin Login Portal |
 |------------------------------|----------------------|----------------------|
-| ![Screenshot 4](screenshots/screenshot4.png) | ![Screenshot 5](screenshots/screenshot5.png) | ![Screenshot 6](screenshots/screenshot6.png) |
+| ![Screenshot 4](Screenshots/screenshot4.png) | ![Screenshot 5](Screenshots/screenshot5.png) | ![Screenshot 6](Screenshots/screenshot6.png) |
 
 | User's Data | Pie Chart for Field recommendations  | Pie Chart for experienced Level |
 |------------------------|-------------------------|---------------------|
-| ![Screenshot 7](screenshots/screenshot7.png) | ![Screenshot 8](screenshots/screenshot8.png) | ![Screenshot 9](screenshots/screenshot9.png) |
+| ![Screenshot 7](Screenshots/screenshot7.png) | ![Screenshot 8](Screenshots/screenshot8.png) | ![Screenshot 9](Screenshots/screenshot9.png) |
 
 ---
 
